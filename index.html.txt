@@ -1,0 +1,150 @@
+﻿<!doctype html>
+<html>
+	<head lang="es">
+		<title>  EL MUNDO DEL BASKETH BALL </title>
+	</head>
+	<body>
+		<table>
+	<tr>
+			<td> <h1>BASKET BALL</h1></td>
+			 <p> <td> <img src="imagen (3).jpg"/ width="20%" height="30%"> </td> </p>
+	</tr>
+	<tr>
+				<p> <td colspan="2"> <img src="imagen.jpg"/ width="10%" height="15%"> </td> </p>
+	</tr>
+	<tr>
+		<td colspan="2">El basket ball no es solo un deporte; es una pasión que se vive con intensidad en cada cancha, en cada tiro y en cada grito de emoción desde las gradas. Desde cada partidos en la calle hasta grandes finales en estados llenos, este deporte une a personas de todas las edades y lugares. En este blog hablaremos sobre su esencia, lo que hace tan emocionante y por que millones de personas que lo aman.</td>
+	</tr>
+	<tr>
+		<td colspan="2">EL ORIGEN Y LA PASION DEL BASQUETH BALL</td>
+	</tr>
+	<tr>
+		<td  colspan="2"> <video width="640" height="360" controls> <source src="video.mp4" type="video/mp4"> </video> </td>
+
+	</tr>
+	<tr>
+		<td colspan="2"> <audio controls> <source src="audio.mp3" type="audio/mpeg"> </audio> <td>
+	</tr>
+	<tr>
+		<td colspan="2">Es uno de los deportes mas populares del mundo; Se juega en escuelas, parques, gimnasios y grandes arenas llenas de fans. Sin embargo, pocos saben como empezó todo. Este deporte nacio por una necesidad muy simple: crear una actividad divertida para el invierno …. y termino en una pasión mundial. El basqueth ball  fue creado en 1891 por el profesor de educación física JAMES NAISMITH.</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+				El primer partido de basqueth ball fue muy diferente al actual.
+					Esto fue lo que se uso:
+<ol>
+		<li> •	Un balón de futbol(no existía de básquet). </li>
+		<li>•	Dos canastas de duraznos. </li>
+		<li>•	13 reglas básicas escritas por NAISMITH. </li>  </td>
+</ol>
+	</tr>
+	<tr>
+ 	   	<td colspan="2"> El basqueth ball es un deporte de equipo de dos de 5 jugadores que compiten para anotar puntos metiendo un balón en la canasta del equipo contrario.  </td>
+	  </tr>
+	<tr>
+	</tr>
+	<tr>
+		<p> <td colspan="2"> <img src="imagen (2).jpg"/ width="10%" height="15%"> </td> </p>
+
+
+	</tr>
+	<tr>
+		<td colspan="2">   REGLAS BASICAS  </td>
+	</tr>
+	<tr>
+			 <td colspan="2"> <ol> <li>DURACION: 4cuartos de 10 min.</li>
+		•		<li> CANCHA: Mide 28m x 15m.</li> </td>
+</ol>
+		</tr>
+		<tr>	
+	<td> PUNTUACION </td>
+		<td>
+		<ol>
+			<li>•TIRO  DE CAMPO: 2 puntos </li>
+			<li>•TRIPLE: 3puntos </li>
+			<li>•TIRO LIBRE: 1 punto </li> 
+		</td> 
+		</ol>
+		</tr>
+	<tr>
+		<td colspan="2"> FALTAS </td>  
+	</tr>
+	<tr>
+		<td colspan="2"> Cada jugador puede tener 5 FIBA.</td>
+	</tr>
+	<tr>
+		<td colspan="2"> VIOLACIONES </td> 
+	</tr>
+	<tr>
+		<td colspan="2"> 
+<ol>
+		<li>Dobles paso</li> <li> pasos </li> <li>24 seg para lanzar</li> <li> 8 seg para pasar media cancha</li></td>
+</ol>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+		<td colspan="2"> ¿PORQUE EL BASQUETH BALL ES TAN ESPECIAL? </td> 
+
+	</tr>
+	<tr>
+		<p> <td colspan="2"> 
+<ol>		El basquet ball es rápido, dinámico y lleno adrenalina. A diferencia de otros deportes, todo puede cambiar en segundos: triple en el ultimo momento, una jugada o una defensa increíble puede decidir el resultado del partido. 
+		Ademas, es un deporte que fomenta valores muy importantes:
+		<li>•	Trabajo en equipo.</li>
+		<li>•	Disciplina.</li>
+		<li>•	Esfuerzo constante.</li>
+		<li>•	Respeto por el rival.</li>
+</ol>
+												</td> </p>
+	</tr>
+	<tr>
+		  <td colspan="2">CONCLUSIONES</td>
+	</tr>
+	<tr>
+		<td colspan="2"> El basquet ball es emoción, esfuerzo y pasión en movimiento. Ya sea viviéndolo o jugándolo, siempre deja enseñanza: nunca rendirse y dar lo mejor hasta el ultimo 		segundo del reloj.</td>
+	</tr>
+	<tr>
+		<td colspan="2"> REFERENCIAS</td>
+	</tr>
+	<tr>
+		<td colspan="2"> <a href="pixabay.com/es/"> www. pixarbay </a> </td>
+	</tr>
+<tr>
+		<td colspan="2"> <a href="Meta IA"> Inteligencia artificial WhatsApp </a> </td>
+	</tr>
+<tr>
+<td> AUTOR. MARICARMEN</tr>
+</tr>
+<tr>
+<td colspan="2">
+		<h1> Queremos tu opinion  </h1>
+		<form action="#" method="post">
+			<p> Nombre: <input type="text" name="usuario"></p>
+			<p> Apellido Paterno:<input type="text" name="AP" SIZE="30" maxlength="30"></p>
+			<p> Apellido Materno:<input type="text" name="AM" SIZE="30" maxlength="30"> </p>
+			<p> Selecciona tu edad:<input type="number" name="Edad" min="15" max="100" plaseholder="15 - 100"></p>
+		
+			<p> Localidad:<input type="text" name="Localidad" SIZE="18" maxlength="2"> </p>
+			 <p> Sexo: hombre <input type="radio" name="Edad" name="sexo" value="h"> </p>
+			 <p> Sexo: mujer <input type="radio" name="Edad" name="sexo" value="m"> </p>
+			       Otro: <input type="radio" name="Edad" name="sexo" value="otro"> </p>
+			 <p> Email: <input type="email"  name="correo" multiple>  </p>
+			<p> Escribe tus comentarios:</p>
+			<textarea id="comentarios" name"comentarios" rows="4" cols="50"
+				placeholder=""Escribe aqui...">
+			          </textarea>
+
+			<!-- Boton de enviar -->
+			<hr>
+			<p> <input type="submit" value="Enviar"> </p>
+			<!Boton de borrar-->
+			<button type="reset"> Borrar datos</button>
+</td>
+</tr>
+
+
+
+	</table>
+	</body>
+</html>
